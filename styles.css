@@ -1,1 +1,38 @@
 /*  your css code here. If applicable */
+#main{
+	background-color:#f5f5f5;
+	width:50%
+}
+.cont1{
+	background-color:white;
+	
+	height:40%;
+	margin-bottom:10px;
+	margin-left:10px
+}
+.box{
+	
+	height:35vh;
+	width:90%;
+}
+
+.author{
+	text-align:right;
+	margin:5px 10px;
+	font-size:15px
+	
+}
+.para{
+	margin-left:3px;
+	font-size:15px
+}
+
+#testi{
+	font-size:22px;
+	padding-left:10px
+}
+
+
+
+
+
